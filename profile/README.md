@@ -35,14 +35,14 @@
 | <img src="https://github.com/user-attachments/assets/1b4d0281-3460-409c-b671-16951348633d" width="200"> | <img src="https://github.com/user-attachments/assets/8a32d6bc-e2d9-40af-b1ef-6c26826849a0" width="200"> |
 
 
-### 🛠️ 백엔드
-| [**리더: 하늘/박경운**](https://github.com/kyeoungwoon) | [**잼/권재민**](https://github.com/jack0928) | [**약/김이안**](https://github.com/2anizirong) |
+### 🛠️ 백엔드 | Node.js
+| [**리더: 하늘/박경운**](https://github.com/kyeoungwoon) | [**잼/권재민**](https://github.com/jack0928) | [**얀/김이안**](https://github.com/2anizirong) |
 |:---:|:---:|:---:|
 | <img src="https://avatars.githubusercontent.com/u/65695112?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/39423410?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/145183497?v=4" width="200"> |
 
 
 
-### 💻 프론트엔드
+### 💻 프론트엔드 | React.js
 | [**리더: 레일/문세종**](https://github.com/jongse7) | [**구오/구자연**](https://github.com/k-jayeoneee) | [**조이/김여진**](https://github.com/duwlsssss) |
 |:---:|:---:|:---:|
 | <img src="https://avatars.githubusercontent.com/u/78732904?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/120778213?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/92291790?v=4" width="200"> |
