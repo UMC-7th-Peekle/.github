@@ -1,4 +1,7 @@
-## 🥒 피클 (Peekle) 🥒 액티브 시니어 커뮤니티 플랫폼
+![image](https://github.com/user-attachments/assets/3e95d821-7a5c-4594-953e-e2f7a2c9a30f)
+
+
+## 🥒 피클 (Peekle), 액티브 시니어 커뮤니티 플랫폼 🥒
 
 피클(Peekle)은 **액티브 시니어 세대가 서로 연결되고, 새로운 경험과 가치를 만들어갈 수 있도록 돕는** 플랫폼입니다.  
 
@@ -29,6 +32,7 @@
 ### 🧑‍💼 PM & 🎨 디자이너
 | **PM: 다니/이다은** | **디자이너: 지아/유지아** |
 |:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/1b4d0281-3460-409c-b671-16951348633d" width="200"> | <img src="https://github.com/user-attachments/assets/8a32d6bc-e2d9-40af-b1ef-6c26826849a0" width="200"> |
 
 
 ### 🛠️ 백엔드
