@@ -43,9 +43,9 @@
 
 
 ### 💻 프론트엔드 | React.js
-| [**리더: 레일/문세종**](https://github.com/jongse7) | [**구오/구자연**](https://github.com/k-jayeoneee) | [**조이/김여진**](https://github.com/duwlsssss) |
+| [**리더: 레일/문세종**](https://github.com/jongse7) | [**조이/김여진**](https://github.com/duwlsssss) |
 |:---:|:---:|:---:|
-| <img src="https://avatars.githubusercontent.com/u/78732904?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/120778213?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/92291790?v=4" width="200"> |
+| <img src="https://avatars.githubusercontent.com/u/78732904?v=4" width="200"> | <img src="https://avatars.githubusercontent.com/u/92291790?v=4" width="200"> |
 
 
 
